@@ -1,0 +1,70 @@
+  // IF ELSE
+ 
+ /*
+  if ( <condição> ) {
+
+    < comandos >
+    < comandos >
+
+  }
+  */
+  
+ /*
+  if ( <condição> ) {
+     < comandos >
+     < comandos >
+  }
+  else {
+     < comandos >
+     < comandos >
+  }
+  */
+  //-----------------------------------------------------
+  // aninhados
+  /*
+   if ( <condição> ) {
+     < comandos >
+     < comandos >
+  }
+  else {                
+     if ( <condição> ) {
+         < comandos >
+         < comandos >
+     }
+      else {
+        < comandos >
+        < comandos >
+     }
+  }
+  */
+ //-----------------------------------------------------
+ 
+ //SWITCH CASE
+ 
+ /*
+ int tipo = scan.nextInt();
+ switch (tipo) {
+		  
+		 case 1: System.out.println("OLÁ");
+         break; 
+     case 2:System.out.println("OI");;
+        break; 
+     case 3:System.out.println("YO"); 
+       break; 
+     default:
+		   System.out.println("TCHAU");
+       break;
+ }
+ */
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
