@@ -1,0 +1,45 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+      //Sintaxe:
+      //<variável> = <expressão>;
+      
+//--------------------------------------------------------------------------------------------------
+
+      //Entrada de dados
+      //Scanner scan = new Scanner(System.in);
+      //import java.util.Scanner;
+
+//--------------------------------------------------------------------------------------------------
+        
+       Locale.setDefault(Locale.US); /utilizado para "trocar" a vírgula por um ponto
+       //colocar antes do scanner
+       //import java.util.Locale;
+       
+ //--------------------------------------------------------------------------------------------------
+
+      //Tipos de Variáveis e suas entradas
+
+      int inteiro;
+      inteiro = scan.nextInt();
+
+      double comPontoFlutuante;
+      comPontoFlutuante = scan.nextDouble();
+      
+      char caracter;
+      caracter = scan.next().charAt(0);  //se eu digitar TERRA e colocar um 1 no lugar do 0 o que vai imprimir será o E
+      
+      String palavra;
+      palavra = scan.next();
+      palavra = scan.nextLine(); //ler um texto até uma quebra de linha
+      
+     
+  }
+}
+
+  
+
+		
